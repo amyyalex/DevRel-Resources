@@ -28,6 +28,8 @@ A collection of DevRel resources from the [DX Mentorship Program](https://www.dx
 - [How to Start Doing Dev Rel Right Now](https://www.samjulien.com/how-to-start-doing-dev-rel-right-now)
 - [Top 100 DevRel influencers](https://www.ecairn.com/blogs/blog-post-title-three-359w4-m4er9-j3rk2)
 - [Adventures in Solo DevRel Notes | Taylor Barnett](https://taylorbar.net/posts/adventures-in-solo-devrel-notes/)
+- [What is Developer Advocacy](https://ashley-willis.medium.com/what-is-developer-advocacy-3a92442b627c)
+
 
 #### Videos
 
